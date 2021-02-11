@@ -49,5 +49,5 @@ Following creteria:
 
 Github : https://github.com/fatihay53/README-Generator
 
-Github published:
+Github published:https://fatihay53.github.io/README-Generator/
 
