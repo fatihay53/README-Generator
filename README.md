@@ -44,8 +44,11 @@ Following creteria:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
+![GitHub Logo](/readmeGenerator.jpg)
 
 ## Links
+
+GenerateREADMEfile link: https://drive.google.com/file/d/1hHmW1O12IRtSsmQi_SsAVHJtMyIYaKjZ/view
 
 Github : https://github.com/fatihay53/README-Generator
 
